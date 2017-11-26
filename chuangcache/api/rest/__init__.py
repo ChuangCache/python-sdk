@@ -1,2 +1,3 @@
 from chuangcache.api.rest.TokenRequest import TokenRequest
 from chuangcache.api.rest.CdnDomainListRequest import CdnDomainListRequest
+from chuangcache.api.rest.CdnDomainByIdRequest import CdnDomainByIdRequest
