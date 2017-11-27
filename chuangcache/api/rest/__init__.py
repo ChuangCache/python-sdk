@@ -4,3 +4,9 @@ from chuangcache.api.rest.CdnDomainByIdRequest import CdnDomainByIdRequest
 from chuangcache.api.rest.CdnDomainAddRequest import CdnDomainAddRequest
 from chuangcache.api.rest.CdnStatisticsRequest import CdnStatisticsRequest
 from chuangcache.api.rest.CdnLogRequest import CdnLogRequest
+from chuangcache.api.rest.CdnPurgeRequest import CdnPurgeRequest
+from chuangcache.api.rest.CdnGetPurgeListRequest import CdnGetPurgeListRequest
+from chuangcache.api.rest.CdnPrecacheRequest import CdnPrecacheRequest
+from chuangcache.api.rest.CdnGetPrecacheListRequest import CdnGetPrecacheListRequest
+from chuangcache.api.rest.CdnDelayPurgeRequest import CdnDelayPurgeRequest
+from chuangcache.api.rest.CdnGetDelayPurgeListRequest import CdnGetDelayPurgeListRequest
