@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import json
-from urllib import request, parse
+from urllib import request
 
 
 class httpPost(object):
